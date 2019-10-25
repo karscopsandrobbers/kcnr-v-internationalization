@@ -1,14 +1,16 @@
 # kcnr-v-internationalization
 - This repository houses all the language files for KCNR:V
 
-# Rules
+# Requirements
 
+- %% is the insert placeholder, where the game shall replace %% with informational text, you MUST put these %% placeholders respectively back in place in the language that you are editing (THIS IS VERY IMPORTANT).
+- Colour codes are wrapped between tidles i.e (~code~). These follow the same suit as the placeholders, they MUST be put back.
 - Language keys must be sorted in alphabetical order (This does not affect the game, but allows us contributors to handle the keys more easily).
-- %% is the insert placeholder, where the game shall replace %% with informational text, you MUST put these %% placeholders respectively back in place in the language that you are editing.
 - All changes must be done via pull request and summary and description of what was done MUST be descriptive enough for English users to understand.
 - Language files are in JSON format, they must STAY in JSON format.
+- Any request that does not meet these requirements will be denied until fixed.
 
-## New languages
+# New languages
 
 - Language files are stored as `language_code.json`.
 - You may create new language files, they will not be automatically added to the game.
