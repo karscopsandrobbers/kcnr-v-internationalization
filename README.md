@@ -12,7 +12,7 @@
 
 - Language files are stored as `language_code.json`.
 - You may create new language files, they will not be automatically added to the game.
-- When adding new language files, inform a developer at our [Discord Server](https://www.discord.me/kcnr)
+- When adding new language files, inform a developer at our [Discord Server](https://www.discord.me/kcnr) in order for it to be enabled in-game.
 
 # Contributors
 
