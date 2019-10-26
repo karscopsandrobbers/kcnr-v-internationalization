@@ -20,4 +20,7 @@
 
 | Name | Language |
 |:----------:|:-------------:|
-| Kar | English |
+| [Kar](https://github.com/karimcambridge) | English |
+| [TheCopDude](https://github.com/TheCopDude) | Arabic |
+| [Tr1xy](https://github.com/tr1xy) | Serbian |
+| [Chavan](https://github.com/Chavanz) | Brazilian Portuguese |
