@@ -17,7 +17,7 @@
 	"CRIME_COMMITED_WANTED_CHANGE": "%%Počinili ste zločin | %%. Traženi level %% na %%.",
 	"CRIME_COMMITED": "%%Počinili ste zločin | %%.",
 	"DEBUG": "DEBUG",
-	"ERROR": "ERROR",
+	"ERROR": "GREŠKA",
 	"ERROR_INVALID_USERNAME_ID": "Pogrešno ime / ID",
 	"ERROR_NOT_ENOUGH_MONEY_OPERATION": "Nemate dovoljno novca za ovu operaciju.",
 	"ERROR_TOTAL_LEVEL_DEALERSHIP": "Potreban Vam je level %% da bi ste pristupili ovoj trgovini.",
