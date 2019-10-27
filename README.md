@@ -24,3 +24,4 @@
 | [TheCopDude](https://github.com/TheCopDude) | Arabic |
 | [Tr1xy](https://github.com/tr1xy) | Serbian |
 | [Chavan](https://github.com/Chavanz) | Brazilian Portuguese |
+| [klays](https://github.com/balticadev) | Spanish |
