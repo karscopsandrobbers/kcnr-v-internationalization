@@ -1,0 +1,15 @@
+{
+    "auth_account_authenciation": "Potvrda na akaunt",
+    "auth_already_logging_in": "Već se prijavljujete... molimo sačekajte",
+    "auth_email_placeholder": "Email",
+    "auth_forget_text": "Zaboravili ste nalog?",
+    "auth_forget_user_pw_text": "Korisničko ime / Lozinka?",
+    "auth_logging_in": "Prijavljivanje",
+    "auth_login": "Prijavite se",
+    "auth_password_placeholder": "Lozinka",
+    "auth_register": "Registrujte se",
+    "auth_registering": "Registrovanje",
+    "auth_registration_taking_too_long": "Registracija deluje da traje duže nego što bi trebalo ... restartuje igru i pokušajte ponovo",
+    "auth_release_notes": "Tekuće promene",
+    "auth_toast_error_heading": "GREŠKA"
+}

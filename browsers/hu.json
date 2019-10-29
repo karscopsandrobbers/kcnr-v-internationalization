@@ -1,0 +1,15 @@
+{
+	"auth_account_authenciation": "Account Authentication",
+	"auth_already_logging_in": "You are already logging in... please wait",
+	"auth_email_placeholder": "Email",
+	"auth_forget_text": "Forgot",
+	"auth_forget_user_pw_text": "Username / Password?",
+	"auth_logging_in": "Logging in",
+	"auth_login": "Login",
+	"auth_password_placeholder": "Password",
+	"auth_register": "Register",
+	"auth_registering": "Registering",
+	"auth_registration_taking_too_long": "Registration seems to be taking longer than it should... restart the game and try again",
+	"auth_release_notes": "Release Notes",
+	"auth_toast_error_heading": "ERROR"
+}

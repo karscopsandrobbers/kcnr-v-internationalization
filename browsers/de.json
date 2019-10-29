@@ -1,0 +1,15 @@
+{
+	"auth_account_authenciation": "Kontoauthentifizierung",
+	"auth_already_logging_in": "Sie melden sich bereits an ... bitte warten Sie",
+	"auth_email_placeholder": "Email",
+	"auth_forget_text": "Vergessen",
+	"auth_forget_user_pw_text": "Benutzername / Passwort?",
+	"auth_logging_in": "Einloggen",
+	"auth_login": "Anmeldung",
+	"auth_password_placeholder": "Passwort",
+	"auth_register": "Registrieren",
+	"auth_registering": "Registrieren",
+	"auth_registration_taking_too_long": "Die Registrierung scheint länger zu dauern, als sie sollte",
+	"auth_release_notes": "Versionshinweise",
+	"auth_toast_error_heading": "ERROR"
+}

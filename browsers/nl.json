@@ -1,0 +1,15 @@
+{
+	"auth_account_authenciation": "Accountverificatie",
+	"auth_already_logging_in": "U logt al in ... even geduld aub",
+	"auth_email_placeholder": "E-mail",
+	"auth_forget_text": "Forgot",
+	"auth_forget_user_pw_text": "Gebruikersnaam / Wachtwoord?",
+	"auth_logging_in": "Inloggen",
+	"auth_login": "Login",
+	"auth_password_placeholder": "Wachtwoord",
+	"auth_register": "Registreren",
+	"auth_registering": "Inschrijven",
+	"auth_registration_taking_too_long": "Registratie lijkt langer te duren dan zou moeten ... start de game opnieuw en probeer het opnieuw",
+	"auth_release_notes": "Realisatie opmerkingen",
+	"auth_toast_error_heading": "FOUT"
+}
