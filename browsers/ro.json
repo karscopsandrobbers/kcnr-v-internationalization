@@ -1,15 +1,15 @@
 {
-	"auth_account_authenciation": "Account Authentication",
-	"auth_already_logging_in": "You are already logging in... please wait",
+	"auth_account_authenciation": "Autentificare",
+	"auth_already_logging_in": "Esti deja autentificat... te rugam sa astepti.",
 	"auth_email_placeholder": "Email",
-	"auth_forget_text": "Forgot",
-	"auth_forget_user_pw_text": "Username / Password?",
-	"auth_logging_in": "Logging in",
-	"auth_login": "Login",
-	"auth_password_placeholder": "Password",
-	"auth_register": "Register",
-	"auth_registering": "Registering",
-	"auth_registration_taking_too_long": "Registration seems to be taking longer than it should... restart the game and try again",
-	"auth_release_notes": "Release Notes",
-	"auth_toast_error_heading": "ERROR"
+	"auth_forget_text": "Uitat",
+	"auth_forget_user_pw_text": "Nume de utilizator / Parola?",
+	"auth_logging_in": "Logare...",
+	"auth_login": "Logare",
+	"auth_password_placeholder": "Parola",
+	"auth_register": "Inregistrare",
+	"auth_registering": "Inregistrare...",
+	"auth_registration_taking_too_long": "Aparent inregistrarea pare sa dureze mai mult de cat ar trebui... te rugam sa te reconectezi.",
+	"auth_release_notes": "Actualizari",
+	"auth_toast_error_heading": "EROARE"
 }
