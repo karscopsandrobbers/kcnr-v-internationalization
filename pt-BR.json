@@ -33,7 +33,7 @@
     "CRIME_COMMITED_WANTED_CHANGE": "%%Crime cometido | %%. Nível desejado %% a %%.",
     "DEBUG": "DEPURAR",
     "ERROR": "ERRO",
-    "ERROR_INVALID_COMMAND": "Invalid command (/%%). Please type /cmds for a list of valid commands.",
+    "ERROR_INVALID_COMMAND": "Invalid command (/%%). Please type /cmds for a list of valid commands",
     "ERROR_INVALID_USERNAME_ID": "Nome de usuário / ID inválido",
     "ERROR_LOTTERY_TICKET_NUMBER_PICK": "Please enter a ticket number between %% and %%",
     "ERROR_LOTTERY_TICKET_NUMBER_TAKEN": "This ticket number is already taken",
