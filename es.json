@@ -28,7 +28,7 @@
     "CONNECTION_PROXY_KICK_MESSAGE": "El uso de VPN o proxy no está permitido dentro del servidor. Apágalo y vuelve a intentarlo.",
     "CONNECTION_QUIT_SERVER_MSG": "%% salió del servidor.",
     "CONNECTION_TIMEOUT_SERVER_MSG": "%% agotó el tiempo de respuesta.",
-    "CONNECTION_WARNING_CONCEPT": "El concepto de GTA:SA y este servidor está basado en contenido explícito. Visita nuestro website %% %%%% para más información y acceder a nuestros foros.",
+    "CONNECTION_WARNING_CONCEPT": "El concepto de GTA:SA y este servidor está basado en contenido explícito. Visita nuestro website %% para más información y acceder a nuestros foros.",
     "CRIME_COMMITED": "%%Crimen cometido | %%.",
     "CRIME_COMMITED_WANTED_CHANGE": "%%Cimen cometido | %%. Nivel de busqueda pasa de %% a %%.",
     "DEBUG": "DEBUG",

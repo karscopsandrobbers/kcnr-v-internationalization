@@ -28,7 +28,7 @@
     "CONNECTION_PROXY_KICK_MESSAGE": "Nie możesz połączyć się z serwerem poprzez VPN lub Proxy. Proszę wyłącz oprogramowanie i spróbuj ponownie.",
     "CONNECTION_QUIT_SERVER_MSG": "%% opuścił serwer.",
     "CONNECTION_TIMEOUT_SERVER_MSG": "%% został rozłączony z serwerem.",
-    "CONNECTION_WARNING_CONCEPT": "Odwiedź naszą stronę %% %%%% po więcej informacji oraz forum społeczności.",
+    "CONNECTION_WARNING_CONCEPT": "Odwiedź naszą stronę %% po więcej informacji oraz forum społeczności.",
     "CRIME_COMMITED": "%%Popełnione przestępstwo | %%.",
     "CRIME_COMMITED_WANTED_CHANGE": "%%Popełnione przestępstwo | %%. Poziom poszukiwania %% na %%.",
     "DEBUG": "DEBUG",

@@ -28,7 +28,7 @@
     "CONNECTION_PROXY_KICK_MESSAGE": "You are not allowed in this server with a VPN or Proxy. Please turn it off and try again.",
     "CONNECTION_QUIT_SERVER_MSG": "%% has quit the server.",
     "CONNECTION_TIMEOUT_SERVER_MSG": "%% has timed out from the server.",
-    "CONNECTION_WARNING_CONCEPT": "The concept of this server and GTA in general may be considered explicit material. Visit our website at %% %%%% for more information and community forums",
+    "CONNECTION_WARNING_CONCEPT": "The concept of this server and GTA in general may be considered explicit material. Visit our website at %% for more information and community forums",
     "CRIME_COMMITED": "%%Crime committed | %%.",
     "CRIME_COMMITED_WANTED_CHANGE": "%%Crime committed | %%. Wanted Level %% to %%.",
     "DEBUG": "DEBUG",

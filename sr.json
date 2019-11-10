@@ -28,7 +28,7 @@
     "CONNECTION_PROXY_KICK_MESSAGE": "Molimo ugasite VPN/Proxy jer su oni zabranjeni na ovom serveru, hvala!",
     "CONNECTION_QUIT_SERVER_MSG": "%% je izašao sa servera.",
     "CONNECTION_TIMEOUT_SERVER_MSG": "%% je izašao sa servera (timed-out).",
-    "CONNECTION_WARNING_CONCEPT": "Opšta tema ovog servera i GTA igre generalno može biti razmotrena kao eksplicitan materijal. Posetite naš web sajt %% %%%% za više informacija i forum zajednice",
+    "CONNECTION_WARNING_CONCEPT": "Opšta tema ovog servera i GTA igre generalno može biti razmotrena kao eksplicitan materijal. Posetite naš web sajt %% za više informacija i forum zajednice",
     "CRIME_COMMITED": "%%Počinili ste zločin | %%.",
     "CRIME_COMMITED_WANTED_CHANGE": "%%Počinili ste zločin | %%. Traženi level %% na %%.",
     "DEBUG": "DEBUG",

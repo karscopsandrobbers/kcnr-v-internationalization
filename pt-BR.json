@@ -28,7 +28,7 @@
     "CONNECTION_PROXY_KICK_MESSAGE": "Você não tem permissão neste servidor com uma VPN ou Proxy. Desligue-o e tente novamente.",
     "CONNECTION_QUIT_SERVER_MSG": "%% saiu do servidor.",
     "CONNECTION_TIMEOUT_SERVER_MSG": "%% atingiu o tempo limite do servidor.",
-    "CONNECTION_WARNING_CONCEPT": "O conceito deste servidor e GTA em geral pode ser considerado material explícito. Visite nosso site em %% %%%% para obter mais informações e fóruns da comunidade",
+    "CONNECTION_WARNING_CONCEPT": "O conceito deste servidor e GTA em geral pode ser considerado material explícito. Visite nosso site em %% para obter mais informações e fóruns da comunidade",
     "CRIME_COMMITED": "%%Crime cometido | %%.",
     "CRIME_COMMITED_WANTED_CHANGE": "%%Crime cometido | %%. Nível desejado %% a %%.",
     "DEBUG": "DEPURAR",
