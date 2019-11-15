@@ -1,0 +1,15 @@
+{
+    "auth_account_authenciation": "Hesap Doğrulaması",
+    "auth_already_logging_in": "Giriş yapıyorsunuz... lütfen bekleyin",
+    "auth_email_placeholder": "E-posta",
+    "auth_forget_text": "Beni unut",
+    "auth_forget_user_pw_text": "Kullanıcı Adı / Şifre?",
+    "auth_logging_in": "Giriş yapılıyor",
+    "auth_login": "Giriş Yap",
+    "auth_password_placeholder": "Şifre",
+    "auth_register": "Kayıt Ol",
+    "auth_registering": "Kayıt olunuyor",
+    "auth_registration_taking_too_long": "Kayıt olma işlemi olması gerekenden uzun sürüyor gibi... oyunu yeniden başlatın ve tekrar deneyin",
+    "auth_release_notes": "Güncelleme Notları",
+    "auth_toast_error_heading": "HATA"
+}

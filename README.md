@@ -31,3 +31,4 @@
 | [Chavan](https://github.com/Chavanz) | Brazilian Portuguese |
 | [klays](https://github.com/tomasbarros) | Spanish |
 | [Tampacz](https://github.com/Tampacz) | Polish |
+| Calabresi | Turkish |
