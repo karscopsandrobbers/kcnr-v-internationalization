@@ -1,0 +1,15 @@
+{
+	"auth_account_authenciation": "Kasutaja kontrollimine",
+	"auth_already_logging_in": "Sa logisid juba sisse... palun oota",
+	"auth_email_placeholder": "Email",
+	"auth_forget_text": "Unustasin",
+	"auth_forget_user_pw_text": "Kasutajanime / Parooli?",
+	"auth_logging_in": "Login sisse",
+	"auth_login": "Logima",
+	"auth_password_placeholder": "Parool",
+	"auth_register": "Registreeri",
+	"auth_registering": "Registreerub",
+	"auth_registration_taking_too_long": "Registreerimine võtab rohkem aega, kui tegelikult peaks... tee mängule restart ja proovi uuesti",
+	"auth_release_notes": "Uuenduste märkmed",
+	"auth_toast_error_heading": "VIGA"
+} 
