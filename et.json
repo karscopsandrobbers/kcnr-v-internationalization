@@ -72,7 +72,7 @@
     "GROUP_CREATE_ATTEMPT_FAILED_NOTIFY": "Grupi loomine ~r~EBAÕNNESTUS~s~!",
     "GROUP_CREATING_ATTEMPT": "Gruppi '%%' proovitakse luua...",
     "GROUP_PLAYER_INVITE": "%% kutsus sind gruppi (%%)!",
-    "GROUP_PLAYER_INVITE_DEETS": "Sisesta "/group accept" kutse vastuvõtmiseks või "/group deny" kutse loobumiseks!",
+    "GROUP_PLAYER_INVITE_DEETS": "Sisesta '/group accept' kutse vastuvõtmiseks või '/group deny' kutse loobumiseks!",
     "LEO_GARAGE_ITEM_SELECT": "Valitsus on lubanud sinu uuel %% ilmuda. Vaata ringi, et leida oma uus õiguskaitse sõiduk.",
     "LEO_LOCKER_MODEL_SELECT": "Sa oled muutnud oma tegelaskuju %%.",
     "LEO_TICKET_ISSUED_MESSAGE": "Trahv (%%) väljastatud %%.",
