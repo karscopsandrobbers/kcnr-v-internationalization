@@ -84,7 +84,7 @@
     "NOT_ENOUGH_MONEY_ITEM": "ليس لديك ما يكفي من المال لشراء هذا %%.",
     "PLAYER_ACHIEVE_REGULAR_STATUS": "%%, %%you have gained %%Regular Player Status%%.",
     "PLAYER_ACHIEVE_REGULAR_STATUS_GLOBAL": "%% %%has been %%promoted %%to %%Regular Player Status%%.",
-    "PLAYER_ACHIEVE_REGULAR_STATUS_NOTIFY": "You are now a ~b~Regular Player~s~. Thank you for enjoying Kar's Cops And Robbers!",
+    "PLAYER_ACHIEVE_REGULAR_STATUS_NOTIFY": "You are now a ~b~Regular Player~s~. Thank you for enjoying %%!",
     "PLAYER_DATA_SAVED_MANUALLY": "Your %%player data%% has been manually %%saved%%.",
     "PLAYER_DEATH_KILLED": "%% قد قتل%%. سبب الوفاة (%%).",
     "PLAYER_DEATH_KILLER_SELF": "قام %% بالانتحار. سبب الوفاة (%%).",

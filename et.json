@@ -84,7 +84,7 @@
     "NOT_ENOUGH_MONEY_ITEM": "Sul ei ole piisavalt raha, et osta %%.",
     "PLAYER_ACHIEVE_REGULAR_STATUS": "%%, %%sind edutati %%tavamängijaks%%.",
     "PLAYER_ACHIEVE_REGULAR_STATUS_GLOBAL": "%% %%edutati %%tavamängijaks%%.",
-    "PLAYER_ACHIEVE_REGULAR_STATUS_NOTIFY": "Sa oled nüüd ~b~tavaline mängija~s~. Aitäh nautimast Kar's Cops And Robbers!",
+    "PLAYER_ACHIEVE_REGULAR_STATUS_NOTIFY": "Sa oled nüüd ~b~tavaline mängija~s~. Aitäh nautimast %%!",
     "PLAYER_DATA_SAVED_MANUALLY": "Sinu %%mängija andmed%% on käsitsi %%salvestatud%%.",
     "PLAYER_DEATH_KILLED": "%% tappis %%. Surma põhjuseks on (%%).",
     "PLAYER_DEATH_KILLER_SELF": "%% sooritas enesetapu. Surma põhjuseks on (%%).",

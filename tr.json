@@ -84,7 +84,7 @@
     "NOT_ENOUGH_MONEY_ITEM": "%% satın almak için yeterli paranız yok.",
     "PLAYER_ACHIEVE_REGULAR_STATUS": "%%, %% %%Devamlı Oyuncu Statüsü%% kazandınız.",
     "PLAYER_ACHIEVE_REGULAR_STATUS_GLOBAL": "%% %%kişisi %% %% %%Devamlı Oyuncu Statüsü%%ne yükseltildi.",
-    "PLAYER_ACHIEVE_REGULAR_STATUS_NOTIFY": "Artık bir ~b~DevamlI Oyuncu~s~sunuz. Kar's Cops And Robbers oynadığınız için teşekkürler!",
+    "PLAYER_ACHIEVE_REGULAR_STATUS_NOTIFY": "Artık bir ~b~DevamlI Oyuncu~s~sunuz. %% oynadığınız için teşekkürler!",
     "PLAYER_DATA_SAVED_MANUALLY": "%%Oyuncu verileriniz%% başarıyla %%kayıt edildi%%.",
     "PLAYER_DEATH_KILLED": "%%, %% kişisini öldürdü. Ölüm sebebi (%%).",
     "PLAYER_DEATH_KILLER_SELF": "%% intihar etti. Ölüm sebebi (%%).",
