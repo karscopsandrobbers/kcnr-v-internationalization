@@ -44,6 +44,7 @@
     "ERROR_INVALID_USERNAME_ID": "Vale kasutajanimi / ID",
     "ERROR_LOTTERY_TICKET_NUMBER_PICK": "Palun pane pileti numbriks %% ja %% vahel",
     "ERROR_LOTTERY_TICKET_NUMBER_TAKEN": "Selle pileti number on juba võetud",
+    "ERROR_MAY_NOT_PURCHASE_THAT_AMOUNT": "You can not purchase that amount of %%. It would exceed your inventory limit",
     "ERROR_MAY_NOT_PURCHASE_ANYMORE_UNKNOWN": "Sa ei saa osta rohkem %%",
     "ERROR_NOT_ENOUGH_MONEY_OPERATION": "Sul ei ole piisavalt raha ostu sooritamiseks",
     "ERROR_NOT_ENOUGH_STOCK_AVAILABLE": "Kahjuks ei ole piisavalt varu saadaval ostmiseks",

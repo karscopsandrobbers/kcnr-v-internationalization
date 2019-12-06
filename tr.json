@@ -44,6 +44,7 @@
     "ERROR_INVALID_USERNAME_ID": "Geçersiz Kullanıcı Adı / ID",
     "ERROR_LOTTERY_TICKET_NUMBER_PICK": "Lütfen %% ve %% arası bir bilet numarası girin",
     "ERROR_LOTTERY_TICKET_NUMBER_TAKEN": "Bu bilet numarası alınmış",
+    "ERROR_MAY_NOT_PURCHASE_THAT_AMOUNT": "You can not purchase that amount of %%. It would exceed your inventory limit",
     "ERROR_MAY_NOT_PURCHASE_ANYMORE_UNKNOWN": "Daha fazla %% satın alamazsınız",
     "ERROR_NOT_ENOUGH_MONEY_OPERATION": "Bu işlem için yeterince paranız yok",
     "ERROR_NOT_ENOUGH_STOCK_AVAILABLE": "Bu eşyanın satın almak için yeterli stoğu yok",
