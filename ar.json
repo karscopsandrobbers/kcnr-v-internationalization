@@ -126,6 +126,7 @@
     "TEAM_SELECTION_START_1": "هنا في %% ، سوف تحاكي الحياة التي تختارها. يرجى اختيار فريق لبدء حياتك المهنية.",
     "TEAM_SELECTION_START_2": "سواء اخترت إنقاذ الأرواح ، أو فرض القانون ، أو السرقة من الحكومة ... كل ما تريد أن تكون ، يمكنك أن تكون على%%.",
     "TEAM_SWITCH_TO": "Switch to %%",
+    "TEAM_MAY_NOT_SWITCH_WHILE_WANTED": "You may not switch teams while having a wanted level",
     "TICKET_RECEIVED": "تم استلام مخالفه",
     "TICKET_RECEIVED_MESSAGE": "تم منحك مخالفه %%مخالفه%% (%%) من %%.",
     "TUNING": "Tuning",

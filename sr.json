@@ -126,6 +126,7 @@
     "TEAM_SELECTION_START_1": "Ovde na %%, Vi ćete glumiti ulogu života koji izaberete. Molimo izaberite Vašu ekipu da započnete karijeru.",
     "TEAM_SELECTION_START_2": "Bilo da izaberete da čuvate živote, kršite zakon ili kradete od vlade... šta god da želite to možete biti na %%.",
     "TEAM_SWITCH_TO": "Switch to %%",
+    "TEAM_MAY_NOT_SWITCH_WHILE_WANTED": "You may not switch teams while having a wanted level",
     "TICKET_RECEIVED": "Tiket primljrn",
     "TICKET_RECEIVED_MESSAGE": "Zaduženi ste %%tiketom%% (%%) od strane %%.",
     "TUNING": "Tuning",

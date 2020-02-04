@@ -126,6 +126,7 @@
     "TEAM_SELECTION_START_1": "Siin %% tiimi valimises hakkad sa jäljendama oma elu valikut. Palun vali tiim, et alustada oma karjääri.",
     "TEAM_SELECTION_START_2": "Hoolimata sellest, et otsustad päästa elusid, suruda seadust peale või valitsuselt varastada... ükskõik, kes sa tahad olla, sa saad olla see siin %%.",
     "TEAM_SWITCH_TO": "Vahetatud tiimi %%",
+    "TEAM_MAY_NOT_SWITCH_WHILE_WANTED": "You may not switch teams while having a wanted level",
     "TICKET_RECEIVED": "Trahv kätte saadud",
     "TICKET_RECEIVED_MESSAGE": "Sa oled saanud %%trahvi%% (%%) %% käest.",
     "TUNING": "Seadistamine",

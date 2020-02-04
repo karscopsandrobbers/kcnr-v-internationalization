@@ -126,6 +126,7 @@
     "TEAM_SELECTION_START_1": "Aqui en %%, emularás una vida de tu elección. Seleccione el equipo para comenzar su carrera.",
     "TEAM_SELECTION_START_2": "Eligiste salvar vidas, este rol consiste en interpretar el papel de un policía %%.",
     "TEAM_SWITCH_TO": "Cambiar a %%",
+    "TEAM_MAY_NOT_SWITCH_WHILE_WANTED": "You may not switch teams while having a wanted level",
     "TICKET_RECEIVED": "Multa recibida",
     "TICKET_RECEIVED_MESSAGE": "Se te emitió una %%multa%% (%%) por %%.",
     "TUNING": "Tuning",

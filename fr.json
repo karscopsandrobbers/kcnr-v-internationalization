@@ -126,6 +126,7 @@
     "TEAM_SELECTION_START_1": "Here at %%, you will emulate a life of your choice. Please select team to begin your career.",
     "TEAM_SELECTION_START_2": "Whether you choose to save lives, enforce the law or steal from the government... whatever you want to be, you can be it at %%.",
     "TEAM_SWITCH_TO": "Switch to %%",
+    "TEAM_MAY_NOT_SWITCH_WHILE_WANTED": "You may not switch teams while having a wanted level",
     "TICKET_RECEIVED": "Ticket Recieved",
     "TICKET_RECEIVED_MESSAGE": "You've been issued a %%ticket%% (%%) from %%.",
     "TUNING": "Tuning",

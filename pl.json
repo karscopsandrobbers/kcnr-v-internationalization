@@ -126,6 +126,7 @@
     "TEAM_SELECTION_START_1": "W %% będziesz mógł naśladować pracę służb porządkowych.",
     "TEAM_SELECTION_START_2": "%%. Rabunki, kradzieże pojazdów to będzie Twoja codzienność.",
     "TEAM_SWITCH_TO": "Zmieniono na %%",
+    "TEAM_MAY_NOT_SWITCH_WHILE_WANTED": "You may not switch teams while having a wanted level",
     "TICKET_RECEIVED": "Odebrano mandat",
     "TICKET_RECEIVED_MESSAGE": "Otrzymałeś %%mandat%% (%%) od %%.",
     "TUNING": "Tuning",

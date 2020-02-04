@@ -126,6 +126,7 @@
     "TEAM_SELECTION_START_1": "%% üzerinde, seçtiğiniz bir hayatı canlandıracaksınız. Lütfen kariyerinize başlamak için bir takım seçin.",
     "TEAM_SELECTION_START_2": "İster hayat kurtarmayı, ister kanunları korumayı veya devletten çalmayı seçin... ne olmak istiyorsanız, %% üzerinde olabilirsiniz.",
     "TEAM_SWITCH_TO": "%% olarak değiş",
+    "TEAM_MAY_NOT_SWITCH_WHILE_WANTED": "You may not switch teams while having a wanted level",
     "TICKET_RECEIVED": "Ceza Alındı",
     "TICKET_RECEIVED_MESSAGE": "Bir %%ceza%% (%%) aldınız. Cezayı kesen kişi %%.",
     "TUNING": "Modifiye",
