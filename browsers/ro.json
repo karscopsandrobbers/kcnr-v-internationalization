@@ -7,9 +7,11 @@
 	"auth_logging_in": "Logare...",
 	"auth_login": "Logare",
 	"auth_password_placeholder": "Parola",
+	"auth_recover": "Recover",
 	"auth_register": "Inregistrare",
 	"auth_registering": "Inregistrare...",
 	"auth_registration_taking_too_long": "Aparent inregistrarea pare sa dureze mai mult de cat ar trebui... te rugam sa te reconectezi.",
 	"auth_release_notes": "Actualizari",
+	"auth_remembered_password": "Remembered your password?",
 	"auth_toast_error_heading": "EROARE"
 }

@@ -7,9 +7,11 @@
 	"auth_logging_in": "Inloggen",
 	"auth_login": "Login",
 	"auth_password_placeholder": "Wachtwoord",
+	"auth_recover": "Recover",
 	"auth_register": "Registreren",
 	"auth_registering": "Inschrijven",
 	"auth_registration_taking_too_long": "Registratie lijkt langer te duren dan zou moeten ... start de game opnieuw en probeer het opnieuw",
 	"auth_release_notes": "Realisatie opmerkingen",
+	"auth_remembered_password": "Remembered your password?",
 	"auth_toast_error_heading": "FOUT"
 }
