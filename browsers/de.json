@@ -3,6 +3,8 @@
 	"auth_already_logging_in": "Sie melden sich bereits an ... bitte warten Sie",
 	"auth_email_placeholder": "Email",
 	"auth_forget_text": "Vergessen",
+	"auth_forgot_password_email_success": "Your OTP has been sent to your email.",
+	"auth_forgot_password_email_failed": "Failed to sent recovery email. Please try again later.",
 	"auth_forget_user_pw_text": "Benutzername / Passwort?",
 	"auth_logging_in": "Einloggen",
 	"auth_login": "Anmeldung",

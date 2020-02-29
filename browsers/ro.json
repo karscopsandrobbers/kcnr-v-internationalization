@@ -3,6 +3,8 @@
 	"auth_already_logging_in": "Esti deja autentificat... te rugam sa astepti.",
 	"auth_email_placeholder": "Email",
 	"auth_forget_text": "Uitat",
+	"auth_forgot_password_email_success": "Your OTP has been sent to your email.",
+	"auth_forgot_password_email_failed": "Failed to sent recovery email. Please try again later.",
 	"auth_forget_user_pw_text": "Nume de utilizator / Parola?",
 	"auth_logging_in": "Logare...",
 	"auth_login": "Logare",
