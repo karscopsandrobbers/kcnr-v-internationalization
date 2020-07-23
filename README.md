@@ -30,6 +30,8 @@
 | [Tr1xy](https://github.com/tr1xy) | Serbian |
 | [Chavan](https://github.com/Chavanz) | Brazilian Portuguese |
 | [klays](https://github.com/tomasbarros) | Spanish |
+| [KaizerHind]https://github.com/KaizerHind) | Spanish |
 | [Tampacz](https://github.com/Tampacz) | Polish |
 | [Calabresi](http://github.com/utkutombul) | Turkish |
 | [Caledonite](http://github.com/Caledonite) | Estonian |
+| [juanpenia](http://github.com/juanpenia) | Spanish |
