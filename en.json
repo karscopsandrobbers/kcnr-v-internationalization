@@ -8,6 +8,7 @@
     "ACHIEVEMENT_TYPE_TIME": "TIME",
     "ADMIN": "ADMIN",
     "ANNOUNCEMENT": "ANNOUNCEMENT",
+    "ARMOURED_UNDER_ATTACK": "%%[NEWS]%%: a Gruppe Sechs armoured truck is under attack near %%.",
     "AUTH_LOGIN_WELCOME_BACK": "Welcome back %%%%%%, you have successfully logged in.",
     "AUTH_REGISTER_WELCOME": "Welcome %%, you have just registered to %%.",
     "BAG_DROPPED_ON_DEATH": "%%[BAG]:%% Your %% is on the ground where you went down.",
