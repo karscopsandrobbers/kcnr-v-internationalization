@@ -85,7 +85,7 @@
     "ERROR_PROPERTY_HAS_INVALID_PRICE": "Bu %% için belirlenmiş geçerli bir değer yok. Lütfen bunu bildirin",
     "ERROR_PROPERTY_NOT_OWNED": "Bu %% kimse tarafından satın alınmamış",
     "ERROR_PROPERTY_PLAYER_NOT_ENOUGH_MONEY": "Bu %% için yeterli miktarda paranız yok",
-    "ERROR_TOTAL_LEVEL_DEALERSHIP": "Bu galeriye ulaşabilmek için %% seviyesinde olmalısınız",
+    "ERROR_TOTAL_LEVEL_DEALERSHIP": "Bu galeri için %% toplam seviye gerekiyor; seninki %%.",
     "ERROR_VEHICLE_MOD_PLAYER_NOT_ENOUGH_MONEY": "Bu araç eklentisini satın almak için yeterli paranız yok",
     "ERROR_VEHICLE_REFUEL_ATTEMPT_FULL": "Aracınızın yakıt tankı tamamen dolu durumda",
     "ERROR_WEAPON_ALREADY_HAVE_MAXIMUM_AMMO": "Bu silah için maksimum mermi miktarına sahipsiniz",

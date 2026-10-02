@@ -85,7 +85,7 @@
     "ERROR_PROPERTY_HAS_INVALID_PRICE": "This %% does not have a valid price attached to it. Please report this",
     "ERROR_PROPERTY_NOT_OWNED": "This %% is not owned by anyone",
     "ERROR_PROPERTY_PLAYER_NOT_ENOUGH_MONEY": "Sul ei ole piisavalt raha, et osta %%",
-    "ERROR_TOTAL_LEVEL_DEALERSHIP": "You need a total level of %% in order to access this dealership",
+    "ERROR_TOTAL_LEVEL_DEALERSHIP": "Selle autoesinduse kasutamiseks on vaja kogutaset %%; sinu oma on %%.",
     "ERROR_VEHICLE_MOD_PLAYER_NOT_ENOUGH_MONEY": "Sul ei ole piisavalt raha, et sooritada sõiduki modifikatsiooni ostu.",
     "ERROR_VEHICLE_REFUEL_ATTEMPT_FULL": "Su auto bensiinipagas on täis.",
     "ERROR_WEAPON_ALREADY_HAVE_MAXIMUM_AMMO": "Sul on selle relva kuulide kogus täis.",

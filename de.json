@@ -85,7 +85,7 @@
     "ERROR_PROPERTY_HAS_INVALID_PRICE": "This %% does not have a valid price attached to it. Please report this",
     "ERROR_PROPERTY_NOT_OWNED": "This %% is not owned by anyone",
     "ERROR_PROPERTY_PLAYER_NOT_ENOUGH_MONEY": "You do not have enough money to purchase this %%",
-    "ERROR_TOTAL_LEVEL_DEALERSHIP": "You need a total level of %% in order to access this dealership",
+    "ERROR_TOTAL_LEVEL_DEALERSHIP": "Du brauchst ein Gesamtlevel von %% für dieses Autohaus; deins ist %%.",
     "ERROR_VEHICLE_MOD_PLAYER_NOT_ENOUGH_MONEY": "You do not have enough money to purchase this modification",
     "ERROR_VEHICLE_REFUEL_ATTEMPT_FULL": "Your vehicle's gas tank is already full",
     "ERROR_WEAPON_ALREADY_HAVE_MAXIMUM_AMMO": "You already have the maximum ammo quantity of this weapon",

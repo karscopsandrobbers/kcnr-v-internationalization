@@ -85,7 +85,7 @@
     "ERROR_PROPERTY_HAS_INVALID_PRICE": "Este(a) %% não tem um preço válido associado a ele. Por favor, reporte isso",
     "ERROR_PROPERTY_NOT_OWNED": "Este(a) %% não pertence à ninguém",
     "ERROR_PROPERTY_PLAYER_NOT_ENOUGH_MONEY": "Você não tem dinheiro suficiente para comprar este(a) %%",
-    "ERROR_TOTAL_LEVEL_DEALERSHIP": "Você precisa de um nível total de %% para acessar este fornecedor",
+    "ERROR_TOTAL_LEVEL_DEALERSHIP": "Você precisa de um nível total de %% para usar esta concessionária; o seu é %%.",
     "ERROR_VEHICLE_MOD_PLAYER_NOT_ENOUGH_MONEY": "Você não tem dinheiro suficiente para comprar esta modificação",
     "ERROR_VEHICLE_REFUEL_ATTEMPT_FULL": "O tanque de gasolina do seu veículo já está cheio",
     "ERROR_WEAPON_ALREADY_HAVE_MAXIMUM_AMMO": "Você já tem a quantidade máxima de munição desta arma",
