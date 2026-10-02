@@ -44,6 +44,8 @@
     "DEATH_BY_ANIMAL": "Killed by an animal",
     "DEATH_BY_CIVILIAN": "Killed by a civilian",
     "DEATH_BY_DRIVER": "Killed by somebody in a %%",
+    "DEATH_BY_GANG": "Killed by a %% member",
+    "DEATH_BY_GANG_WITH": "%%, by a %% member",
     "DEATH_BY_POLICE": "Killed by the police",
     "DEATH_BY_SOMEBODY": "Killed by somebody",
     "DEATH_CAUSE_WEAPON": "%%",
