@@ -145,6 +145,7 @@
     "ROBBERY_CASH_DROPPED": "%%[PUDONNUT]%%: ottamasi %%%%%% on maassa siellä, missä kaaduit.",
     "ROBBERY_CASH_SEIZED": "%%[TAKAVARIKOITU]%%: ottamasi %%%%%% löydettiin sinulta ja kirjattiin todisteeksi.",
     "ROBBERY_CASH_SPLIT": "Käteistä %%%%%% jaettuna %% kesken, osuutesi %%%%%%.",
+    "ROBBERY_CLERK_DEAD_CASES_LEFT": "%%Myyjä on kuollut.%% Kukaan ei avaa sitä kassaa — mutta vitriinit ovat yhä paikallaan.",
     "ROBBERY_CLERK_DEAD_KEEP": "%%Myyjä on kuollut.%% Pidät sen, minkä hän jo ojensi.",
     "ROBBERY_CLERK_DEAD_NOTHING": "%%Myyjä on kuollut.%% Hän ei avannut kassaa, joten otettavaa ei ole.",
     "ROBBERY_CLERK_DEAD_SAFE_LEFT": "%%Myyjä on kuollut.%% Kukaan ei avaa sitä kassaa — mutta kassakaappi on yhä paikallaan.",

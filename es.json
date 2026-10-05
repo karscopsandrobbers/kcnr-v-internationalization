@@ -145,6 +145,7 @@
     "ROBBERY_CASH_DROPPED": "%%[CAÍDO]%%: los %%%%%% que te llevaste están en el suelo donde caíste.",
     "ROBBERY_CASH_SEIZED": "%%[INCAUTADO]%%: los %%%%%% que te llevaste se encontraron encima de ti y quedaron registrados como prueba.",
     "ROBBERY_CASH_SPLIT": "Efectivo %%%%%% repartido entre %%, tu parte %%%%%%.",
+    "ROBBERY_CLERK_DEAD_CASES_LEFT": "%%El dependiente está muerto.%% Nadie va a abrir esa caja, pero las vitrinas siguen ahí.",
     "ROBBERY_CLERK_DEAD_KEEP": "%%El dependiente está muerto.%% Te quedas con lo que ya te entregó.",
     "ROBBERY_CLERK_DEAD_NOTHING": "%%El dependiente está muerto.%% Nunca abrió la caja, así que no hay nada que llevarse.",
     "ROBBERY_CLERK_DEAD_SAFE_LEFT": "%%El dependiente está muerto.%% Nadie va a abrir esa caja, pero la caja fuerte sigue ahí.",

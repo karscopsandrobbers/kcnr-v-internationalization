@@ -145,6 +145,7 @@
     "ROBBERY_CASH_DROPPED": "%%[MAHA KUKKUNUD]%%: sinu võetud %%%%%% on maas seal, kus sa kukkusid.",
     "ROBBERY_CASH_SEIZED": "%%[KONFISKEERITUD]%%: sinu võetud %%%%%% leiti sinult ja kanti tõendina arvele.",
     "ROBBERY_CASH_SPLIT": "Sularaha %%%%%% jagati %% vahel, sinu osa %%%%%%.",
+    "ROBBERY_CLERK_DEAD_CASES_LEFT": "%%Müüja on surnud.%% Seda kassat ei ava enam keegi — aga vitriinid on alles.",
     "ROBBERY_CLERK_DEAD_KEEP": "%%Müüja on surnud.%% Sa jätad endale selle, mis ta juba üle andis.",
     "ROBBERY_CLERK_DEAD_NOTHING": "%%Müüja on surnud.%% Ta ei avanud kassat, seega pole midagi võtta.",
     "ROBBERY_CLERK_DEAD_SAFE_LEFT": "%%Müüja on surnud.%% Seda kassat ei ava enam keegi — aga seif on alles.",

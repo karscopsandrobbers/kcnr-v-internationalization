@@ -145,6 +145,7 @@
     "ROBBERY_CASH_DROPPED": "%%[ISPUŠTENO]%%: uzetih %%%%%% je na zemlji gde si pao.",
     "ROBBERY_CASH_SEIZED": "%%[ZAPLENJENO]%%: uzetih %%%%%% pronađeno je kod tebe i zavedeno kao dokaz.",
     "ROBBERY_CASH_SPLIT": "Gotovina %%%%%% podeljena na %% vas, tvoj deo %%%%%%.",
+    "ROBBERY_CLERK_DEAD_CASES_LEFT": "%%Prodavac je mrtav.%% Niko neće otvoriti tu kasu — ali vitrine su i dalje tu.",
     "ROBBERY_CLERK_DEAD_KEEP": "%%Prodavac je mrtav.%% Zadržavaš ono što ti je već predao.",
     "ROBBERY_CLERK_DEAD_NOTHING": "%%Prodavac je mrtav.%% Nikad nije otvorio kasu, pa nema šta da se uzme.",
     "ROBBERY_CLERK_DEAD_SAFE_LEFT": "%%Prodavac je mrtav.%% Niko neće otvoriti tu kasu — ali sef je i dalje tu.",

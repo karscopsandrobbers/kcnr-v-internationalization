@@ -145,6 +145,7 @@
     "ROBBERY_CASH_DROPPED": "%%[ELEJTVE]%%: az elvitt %%%%%% a földön van, ahol elestél.",
     "ROBBERY_CASH_SEIZED": "%%[LEFOGLALVA]%%: az elvitt %%%%%% nálad volt, és bizonyítékként lefoglalták.",
     "ROBBERY_CASH_SPLIT": "Készpénz %%%%%%, %% fő között elosztva, a részed %%%%%%.",
+    "ROBBERY_CLERK_DEAD_CASES_LEFT": "%%Az eladó meghalt.%% Azt a kasszát már senki sem nyitja ki — de a vitrinek még ott vannak.",
     "ROBBERY_CLERK_DEAD_KEEP": "%%Az eladó meghalt.%% Megtartod, amit már átadott.",
     "ROBBERY_CLERK_DEAD_NOTHING": "%%Az eladó meghalt.%% Ki sem nyitotta a kasszát, így nincs mit elvinni.",
     "ROBBERY_CLERK_DEAD_SAFE_LEFT": "%%Az eladó meghalt.%% Azt a kasszát már senki sem nyitja ki — de a széf még ott van.",

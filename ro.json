@@ -145,6 +145,7 @@
     "ROBBERY_CASH_DROPPED": "%%[SCĂPAT]%%: cei %%%%%% pe care i-ai luat sunt pe jos, unde ai căzut.",
     "ROBBERY_CASH_SEIZED": "%%[CONFISCAT]%%: cei %%%%%% pe care i-ai luat au fost găsiți la tine și înregistrați ca probă.",
     "ROBBERY_CASH_SPLIT": "Numerar %%%%%% împărțit între %% dintre voi, partea ta %%%%%%.",
+    "ROBBERY_CLERK_DEAD_CASES_LEFT": "%%Vânzătorul e mort.%% Nimeni nu mai deschide casa aceea — dar vitrinele sunt încă acolo.",
     "ROBBERY_CLERK_DEAD_KEEP": "%%Vânzătorul e mort.%% Păstrezi ce ți-a dat deja.",
     "ROBBERY_CLERK_DEAD_NOTHING": "%%Vânzătorul e mort.%% N-a deschis niciodată casa, așa că nu e nimic de luat.",
     "ROBBERY_CLERK_DEAD_SAFE_LEFT": "%%Vânzătorul e mort.%% Nimeni nu mai deschide casa aceea — dar seiful e încă acolo.",

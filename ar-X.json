@@ -145,6 +145,7 @@
     "ROBBERY_CASH_DROPPED": "%%[WE2E3]%%: el %%%%%% elly 5adtaha 3al ard makan ma we2e3t.",
     "ROBBERY_CASH_SEIZED": "%%[MOSADRA]%%: el %%%%%% elly 5adtaha la2ooha ma3ak w et7arazet.",
     "ROBBERY_CASH_SPLIT": "Fulus %%%%%% benkom ento el %%, nasibak %%%%%%.",
+    "ROBBERY_CLERK_DEAD_CASES_LEFT": "%%El bayya3 mat.%% Mafeesh 7ad hayefta7 el dorg da — bas el vatreenat lessa mawgooda.",
     "ROBBERY_CLERK_DEAD_KEEP": "%%El bayya3 mat.%% Enta wa5ed elly edahoolak abl keda.",
     "ROBBERY_CLERK_DEAD_NOTHING": "%%El bayya3 mat.%% Mafata7sh el dorg 5ales, fa mafeesh 7aga tet5ed.",
     "ROBBERY_CLERK_DEAD_SAFE_LEFT": "%%El bayya3 mat.%% Mafeesh 7ad hayefta7 el dorg da — bas el 5azna lessa mawgooda.",

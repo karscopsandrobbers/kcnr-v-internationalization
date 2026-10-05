@@ -145,6 +145,7 @@
     "ROBBERY_CASH_DROPPED": "%%[DÜŞTÜ]%%: aldığın %%%%%% düştüğün yerde, yerde duruyor.",
     "ROBBERY_CASH_SEIZED": "%%[EL KONULDU]%%: aldığın %%%%%% üzerinde bulundu ve delil olarak kayda geçti.",
     "ROBBERY_CASH_SPLIT": "Nakit %%%%%%, %% kişi arasında paylaşıldı, payın %%%%%%.",
+    "ROBBERY_CLERK_DEAD_CASES_LEFT": "%%Kasiyer öldü.%% O yazar kasayı artık kimse açmayacak — ama vitrinler hâlâ orada.",
     "ROBBERY_CLERK_DEAD_KEEP": "%%Kasiyer öldü.%% Daha önce verdiklerini alıyorsun.",
     "ROBBERY_CLERK_DEAD_NOTHING": "%%Kasiyer öldü.%% Yazar kasayı hiç açmadı, yani alınacak bir şey yok.",
     "ROBBERY_CLERK_DEAD_SAFE_LEFT": "%%Kasiyer öldü.%% O yazar kasayı artık kimse açmayacak — ama çelik kasa hâlâ orada.",

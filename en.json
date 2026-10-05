@@ -145,6 +145,7 @@
     "ROBBERY_CASH_DROPPED": "%%[DROPPED]%%: the %%%%%% you took is on the ground where you went down.",
     "ROBBERY_CASH_SEIZED": "%%[SEIZED]%%: the %%%%%% you took was found on you and booked in.",
     "ROBBERY_CASH_SPLIT": "Cash %%%%%% between %% of you, your share %%%%%%.",
+    "ROBBERY_CLERK_DEAD_CASES_LEFT": "%%The clerk is dead.%% Nobody is opening that till — the cases are still there.",
     "ROBBERY_CLERK_DEAD_KEEP": "%%The clerk is dead.%% You keep what he already handed over.",
     "ROBBERY_CLERK_DEAD_NOTHING": "%%The clerk is dead.%% He never opened the till, so there is nothing to take.",
     "ROBBERY_CLERK_DEAD_SAFE_LEFT": "%%The clerk is dead.%% Nobody is opening that till — the safe is still there.",

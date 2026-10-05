@@ -145,6 +145,7 @@
     "ROBBERY_CASH_DROPPED": "%%[TOMBÉ]%%: les %%%%%% que tu as pris sont par terre, là où tu es tombé.",
     "ROBBERY_CASH_SEIZED": "%%[SAISI]%%: les %%%%%% que tu as pris ont été trouvés sur toi et mis sous scellés.",
     "ROBBERY_CASH_SPLIT": "Liquide %%%%%% partagé entre %% d'entre vous, ta part %%%%%%.",
+    "ROBBERY_CLERK_DEAD_CASES_LEFT": "%%Le vendeur est mort.%% Personne n'ouvrira cette caisse — mais les vitrines sont toujours là.",
     "ROBBERY_CLERK_DEAD_KEEP": "%%Le vendeur est mort.%% Tu gardes ce qu'il t'a déjà remis.",
     "ROBBERY_CLERK_DEAD_NOTHING": "%%Le vendeur est mort.%% Il n'a jamais ouvert la caisse, il n'y a donc rien à prendre.",
     "ROBBERY_CLERK_DEAD_SAFE_LEFT": "%%Le vendeur est mort.%% Personne n'ouvrira cette caisse — mais le coffre est toujours là.",

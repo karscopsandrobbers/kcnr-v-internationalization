@@ -145,6 +145,7 @@
     "ROBBERY_CASH_DROPPED": "%%[UPUSZCZONE]%%: zabrane %%%%%% leży na ziemi tam, gdzie padłeś.",
     "ROBBERY_CASH_SEIZED": "%%[ZAJĘTE]%%: zabrane %%%%%% znaleziono przy tobie i zabezpieczono jako dowód.",
     "ROBBERY_CASH_SPLIT": "Gotówka %%%%%% podzielona między %% osób, twoja część %%%%%%.",
+    "ROBBERY_CLERK_DEAD_CASES_LEFT": "%%Sprzedawca nie żyje.%% Nikt już nie otworzy tej kasy — ale gabloty wciąż tam są.",
     "ROBBERY_CLERK_DEAD_KEEP": "%%Sprzedawca nie żyje.%% Zatrzymujesz to, co już ci przekazał.",
     "ROBBERY_CLERK_DEAD_NOTHING": "%%Sprzedawca nie żyje.%% Nie otworzył kasy, więc nie ma czego zabrać.",
     "ROBBERY_CLERK_DEAD_SAFE_LEFT": "%%Sprzedawca nie żyje.%% Nikt już nie otworzy tej kasy — ale sejf wciąż tam jest.",

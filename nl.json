@@ -145,6 +145,7 @@
     "ROBBERY_CASH_DROPPED": "%%[GEVALLEN]%%: de %%%%%% die je meenam ligt op de grond waar je neerging.",
     "ROBBERY_CASH_SEIZED": "%%[IN BESLAG]%%: de %%%%%% die je meenam is bij je gevonden en als bewijs vastgelegd.",
     "ROBBERY_CASH_SPLIT": "Contant %%%%%% verdeeld over %% van jullie, jouw deel %%%%%%.",
+    "ROBBERY_CLERK_DEAD_CASES_LEFT": "%%De winkelbediende is dood.%% Niemand opent die kassa nog — maar de vitrines zijn er nog.",
     "ROBBERY_CLERK_DEAD_KEEP": "%%De winkelbediende is dood.%% Je houdt wat hij al had overhandigd.",
     "ROBBERY_CLERK_DEAD_NOTHING": "%%De winkelbediende is dood.%% Hij heeft de kassa nooit geopend, dus er valt niets te halen.",
     "ROBBERY_CLERK_DEAD_SAFE_LEFT": "%%De winkelbediende is dood.%% Niemand opent die kassa nog — maar de kluis is er nog.",
